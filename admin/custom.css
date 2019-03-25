@@ -1,0 +1,50 @@
+* {
+    font-family: Palatino Linotype;
+  }
+body,html
+{
+	margin:0;height:100%;
+	background-color:#b5b5b7;
+}
+
+.dropdown-menu
+{
+	z-index:999;
+}
+.dropdown-menu a
+{
+	color:#ffffff;
+}
+.LoginPanel
+{
+	width:40%;margin-left: 30%;margin-top: 15%;
+}
+.upload
+{
+	background-color:#6eb6ea;
+	border-radius: 20px;
+}
+.tblarea
+{
+	background-color: #f9f9f9;margin-top: 0.5%;border-top: 1px solid ;padding-top: 0.5%;
+}
+.btn
+{
+	font-weight: bolder;
+}
+#heading
+{
+	color: #ffffff;background-color: #000000;
+}
+#heading h4 a
+{
+	color: #ffffff;text-decoration: none;
+}
+#myNavbar a
+{
+	color:#ffffff;
+}
+#content
+{
+	padding-top:2%;background-color: #f7f7f7;max-height:75vh;overflow-y: auto;
+}

@@ -1,0 +1,337 @@
+/*#navig
+{
+	
+background-color:#3396FF;	
+margin-top:0px;
+padding-top:20px;
+margin-right:10px;
+
+}*/
+.navbar{
+	
+	background-color:#fdfdfd;
+	color:#000;
+	
+	
+}
+.navbar-nav
+{
+	padding-top: 1.2%;text-align: center;
+}
+.navbar-nav li a
+{
+	font-size: 12pt;
+}
+.navbar-nav li a:hover
+{
+	border-radius: 5%;border-bottom: 3px solid #c3d62a;background-color: transparent;color:yellow;
+}
+body{
+	margin: 0;
+}
+body p{
+	color:#000;
+	font-family:Merriweather;
+	font-size:14px;
+	letter-spacing:1px;
+	word-spacing:2px;
+	
+}
+.heading_font
+{
+	font-family:sofia;
+	
+}
+.heading_font h3
+{
+	font-size:25px;
+}
+
+
+icon-bar
+{
+	color:#000;
+}
+/*#header_row #menu_nav
+{
+	background-color:#3396FF;
+	height:14vh;
+	
+}*/
+#carosl_caption h1,p
+{
+	color: white;
+	margin-bottom:30px;
+	
+}
+#carosl_caption p
+{
+	color: white;
+	margin-bottom:30px;
+	
+}
+a
+{
+
+	color: #3396FF;
+	
+
+}
+
+li
+{
+
+	padding-right: 40px;
+
+}
+#home img
+{
+	
+	width:200px;
+	height:200px;
+	
+	    border: 2px solid ;
+		border-image-outset: 10px;
+    padding: 0px;
+	border-color:#c3d330;
+	
+}
+.head_img
+{
+	width:100%;
+	  margin-top:0px;	
+	  margin-top:-21px;
+}
+#home h1
+{
+	color:#c3d330;
+	
+	
+}
+#tours
+{
+	color:#c3d330;
+	
+}
+#carousel2
+{
+	text-align:center;
+	margin-top:1vh;
+	
+}
+#carousel2 img{
+	width:100%;
+	height:25vh;
+}
+ .caption_img {
+  
+    color: #3396FF;
+    background-color: #fff;
+	margin-top:1vh;
+    
+}
+img
+{
+
+width:100%;
+}
+#img_logo
+{
+	margin-left:15vh;
+	width:150vh;
+	
+	
+}
+
+#myCarousel
+{
+margin-top:-21px;
+
+}
+
+
+h2
+{
+color:#3396FF;
+}
+h4
+{
+color:#3396FF;
+}
+#footer
+{
+	background-color:#3396FF;
+	color:#fff;
+}
+#footer a
+{
+	color:#fff;
+	
+	
+}
+#footer_link 
+{
+font-size:12px;	
+padding-right:20px;
+margin-top: 20px;
+color:#fff;
+		
+	
+}
+#footer_link a
+{
+font-size:12px;	
+padding-right:20px;
+
+color:#fff;
+		
+	
+}
+
+#footer
+{
+	margin-top:2vh;
+}
+#footer li
+{
+	padding-right: 0px;
+font-size:11px;
+color:#fff;
+	
+}
+#footer #navig
+{
+	
+background-color:#3396FF;	
+color:#000;
+}
+#copyrights
+{
+font-size:12px;	
+padding-right:10px;
+margin-top: 20px;
+color:#fff;
+	
+}
+h2,h3 #span
+{
+color:#c3d330;	
+}
+h3{
+	
+color:#3396FF;	
+}
+h4
+{
+	margin-top:30px;
+color:#3396FF;	
+  font-style: oblique;
+ font-family: FontAwesome;
+
+}
+#about
+{
+	
+	text-align:center;
+}
+#about_row
+{
+	
+	width:200px;
+	
+	    border: 2px solid ;
+		border-image-outset: 10px;
+    padding: 0px;
+	border-color:#3396FF;
+}
+.img_aboutus
+{
+	width:100%;
+	height:40vh;
+	
+	
+	    border: 5px solid ;
+		border-image-outset: 5px;
+    padding: 0px;
+	border-color:#3396FF;
+		visibility: visible;
+	
+}
+.img_aboutus1
+{
+	width:100%;
+	height:20vh;
+	
+
+	    border: 5px solid ;
+		border-image-outset: 5px;
+    padding: 0px;
+	border-color:#3396FF;
+		visibility: visible;
+	
+}
+
+.img_view_package
+{
+
+	
+	width:100%;
+	    border: 5px solid ;
+		border-image-outset: 5px;
+    padding: 0px;
+	border-color:#3396FF;
+		visibility: visible;	
+	
+}
+#anchors
+{
+	color:#3396FF;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.vertical-menu {
+  width: 200px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+  background-color: #eee; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50; /* Add a green color to the "active/current" link */
+  color: white;
+}
